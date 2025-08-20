@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[🤖 **Model**](https://huggingface.co/loolootech/no-name-ner-th) | [📔 **Jupyter Notebook**](example.ipynb) | [🤗 **Huggingface Space Demo**](https://huggingface.co/spaces/loolootech/no-name-ner-th-demo) | [🩺 **Looloo Health**](https://looloohealth.com/en/)**
+[🤖 **Model**](https://huggingface.co/loolootech/no-name-ner-th) | [📔 **Jupyter Notebook**](example.ipynb) | [🤗 **Huggingface Space Demo**](https://huggingface.co/spaces/loolootech/no-name-ner-th-demo) | [🩺 **Looloo Health**](https://looloohealth.com/en/)
 
 
 At [Looloo Health](https://looloohealth.com/en/), we're passionate about making healthcare more accessible and affordable for everyone. We believe that unlocking the potential of clinical data is key to this goal, and we're excited to share our work with the community.
