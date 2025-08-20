@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/Looloohealth.png" alt="Looloo Health" width="200">
-  <img src="assets/PresScribe.png" alt="Prescribe" width="200">
-</p>
 
+| <img src="assets/Looloohealth.png" alt="Looloo Health" width="200"> | <img src="assets/PresScribe.png" alt="Prescribe" width="200"> |
+|---|---|
+
+</p>
 
 [🤖 **Model**](https://huggingface.co/loolootech/no-name-ner-th) | [📔 **Jupyter Notebook**](example.ipynb) | [🤗 **Huggingface Space Demo**](https://huggingface.co/spaces/loolootech/no-name-ner-th-demo) | [🩺 **Looloo Health**](https://looloohealth.com/en/)**
 
