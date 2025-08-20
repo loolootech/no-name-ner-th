@@ -1,11 +1,14 @@
 # `no-name-ner-th`: A Powerful and Accessible De-identification Model for Thai Texts
 
 
-<img src="assets/mascot-image-landscape.png" alt="mascot" style="width: 600px; height: auto; display: block; margin: 0 auto;">
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="assets/Looloohealth.png" alt="Looloo Health" style="width: 250px; height: auto;">
-    <img src="assets/PresScribe.png" alt="Prescribe" style="width: 250px; height: auto;">
-</div>
+<p align="center">
+  <img src="assets/mascot-image-landscape.png" alt="mascot" width="600">
+</p>
+
+<p align="center">
+  <img src="assets/Looloohealth.png" alt="Looloo Health" width="200">
+  <img src="assets/PresScribe.png" alt="Prescribe" width="200">
+</p>
 
 
 [🤖 **Model**](https://huggingface.co/loolootech/no-name-ner-th) | [📔 **Jupyter Notebook**](example.ipynb) | [🤗 **Huggingface Space Demo**](https://huggingface.co/spaces/loolootech/no-name-ner-th-demo) | [🩺 **Looloo Health**](https://looloohealth.com/en/)**
