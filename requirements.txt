@@ -1,0 +1,6 @@
+transformers[torch]
+tokenizers
+sentencepiece
+pandas
+numpy
+tqdm
