@@ -7,6 +7,10 @@
     <img src="assets/PresScribe.png" alt="Prescribe" style="width: 250px; height: auto;">
 </div>
 
+
+**[🤖 Model](https://huggingface.co/loolootech/no-name-ner-th) | [📔 Jupyter Notebook](example.ipynb) | [🤗 Huggingface Space Demo](https://huggingface.co/spaces/loolootech/no-name-ner-th-demo) | [🩺 Looloo Health](https://looloohealth.com/en/)**
+
+
 At [Looloo Health](https://looloohealth.com/en/), we're passionate about making healthcare more accessible and affordable for everyone. We believe that unlocking the potential of clinical data is key to this goal, and we're excited to share our work with the community.
 
 `no-name-ner-th` is a powerful and accessible model designed to de-identify sensitive information from unstructured Thai texts. It was developed to overcome key challenges in handling private data and is used to power real-world applications in healthcare.
@@ -20,10 +24,19 @@ Developing reliable AI for sensitive data is difficult due to **data scarcity** 
 To overcome data scarcity, we trained our model on a **synthetic dataset of over 300,000 samples**, ensuring it is robust and generalizable. `no-name-ner-th` provides comprehensive de-identification, replacing sensitive data with descriptive tokens to preserve context. It is also **optimized to run on standard CPUs**, making it efficient and widely accessible.
 
 ### **Use Cases**
-The model is a core component of our AI Medical Scribe, [**PresScribe**](https://www.youtube.com/watch?v=oUiJ9oPgZMA), ensuring patient privacy. It is also used to **advance medical research**, enable the creation of **clinical data lakes**, and facilitate the **training of healthcare-specific LLMs**.
+The model is a core component of our AI Medical Scribe, [**PresScribe**](https://www.youtube.com/watch?v=oUiJ9oPgZMA), where it helps ensure patient privacy through automated de-identification.
 
-We believe that by sharing this tool, we can help build a more collaborative and innovative global health tech community. We look forward to seeing what you will build with it.
+Beyond clinical documentation, the model can be applied to:
 
+* **Advancing medical research** by enabling access to de-identified patient data.
+
+* Building **clinical data lakes** that support large-scale healthcare analytics.
+
+* **Training healthcare-specific large language models (LLMs)** on quality data without compromising privacy.
+
+On our internal test set, we achieved over 95% accuracy for our specific use case.
+
+By sharing this tool, we hope to foster a more collaborative and innovative global health tech community — and we’re excited to see what you will build with it 🤗
 
 ## **Quick Start**
 
@@ -60,6 +73,14 @@ A simple, robust post-processing function is demonstrated in this [example noteb
 pip install gradio fastapi uvicorn
 python app.py
 ```
+
+## Disclaimer
+
+* This model is intended as an assistive tool for de-identification. It is not a substitute for professional, legal, or medical advice.
+
+* Users are fully responsible for ensuring compliance with applicable privacy, legal, and regulatory requirements.
+
+* While efforts have been made to improve accuracy, no automated system is 100% reliable. We strongly recommend implementing a regular human review process to validate outputs.
 
 
 ## **License**
