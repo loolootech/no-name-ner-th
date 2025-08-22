@@ -73,7 +73,7 @@ pip install -r requirements.txt
 Before using the model, please request access here: [loolootech/no-name-ner-th](https://huggingface.co/loolootech/no-name-ner-th).
 Access is approved **automatically** — no extra steps required.
 
-The easiest way to authenticate is via the `huggingface_hub` login:
+The easiest way to authenticate is via the `huggingface_hub` login ([more details](https://huggingface.co/docs/huggingface_hub/quick-start#login)):
 
 ```python
 from huggingface_hub import login
