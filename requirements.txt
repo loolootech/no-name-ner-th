@@ -4,3 +4,4 @@ sentencepiece
 pandas
 numpy
 tqdm
+huggingface-hub

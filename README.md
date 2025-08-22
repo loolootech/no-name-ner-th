@@ -60,7 +60,7 @@ On our internal test set, we achieved over 95% accuracy for our specific use cas
 
 By sharing this tool, we hope to foster a more collaborative and innovative global health tech community — and we’re excited to see what you will build with it 🤗
 
-## **Quick Start**
+## ⚡ **Quick Start**
 
 ```sh
 git clone https://github.com/loolootech/no-name-ner-th.git
@@ -68,6 +68,21 @@ cd no-name-ner-th
 pip install -r requirements.txt
 ```
 
+### 🔑 Authentication
+
+Before using the model, please request access here: [loolootech/no-name-ner-th](https://huggingface.co/loolootech/no-name-ner-th).
+Access is approved **automatically** — no extra steps required.
+
+The easiest way to authenticate is via the `huggingface_hub` login:
+
+```python
+from huggingface_hub import login
+
+# This will prompt you for your Hugging Face token
+login()
+```
+
+### 💻 **Usage**
 
 ```python
 from transformers import pipeline
