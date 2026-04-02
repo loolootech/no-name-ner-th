@@ -8,6 +8,9 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img src="assets/logo_mahamor.png" alt="Mahamor" width="200">
+    </td>
+    <td align="center">
       <img src="assets/Looloohealth.png" alt="Looloo Health" width="200">
     </td>
     <td align="center">
@@ -28,12 +31,15 @@
       <a href="https://huggingface.co/spaces/loolootech/no-name-ner-th-demo">🤗 <b>Huggingface Space Demo</b></a>
     </td>
     <td align="center">
+      <a href="https://looloohealth.com/en/">🏥 <b>Mahamor</b></a>
+    </td>
+    <td align="center">
       <a href="https://looloohealth.com/en/">🩺 <b>Looloo Health</b></a>
     </td>
   </tr>
 </table>
 
-At [Looloo Health](https://looloohealth.com/en/), we're passionate about making healthcare more accessible and affordable for everyone. We believe that unlocking the potential of clinical data is key to this goal, and we're excited to share our work with the community.
+At [**Mahamor**](https://looloohealth.com/en/), we're passionate about making healthcare more accessible and affordable for everyone. Mahamor is the parent company behind [**Looloo Health**](https://looloohealth.com/en/), a healthcare AI initiative dedicated to unlocking the potential of clinical data. We believe that making clinical data accessible is key to this goal, and we're excited to share our work with the community.
 
 `no-name-ner-th` is a powerful and accessible model designed to de-identify sensitive information from unstructured Thai texts. It was developed to overcome key challenges in handling private data and is used to power real-world applications in healthcare.
 
@@ -46,7 +52,7 @@ Developing reliable AI for sensitive data is difficult due to **data scarcity** 
 To overcome data scarcity, we trained our model on a **synthetic dataset of over 300,000 samples**, ensuring it is robust and generalizable. `no-name-ner-th` provides comprehensive de-identification, replacing sensitive data with descriptive tokens to preserve context. It is also **optimized to run on standard CPUs**, making it efficient and widely accessible.
 
 ### **Use Cases**
-The model is a core component of our AI Medical Scribe, [**PresScribe**](https://www.youtube.com/watch?v=oUiJ9oPgZMA), where it helps ensure patient privacy through automated de-identification.
+The model is a core component of our AI Medical Scribe, [**PresScribe**](https://www.youtube.com/watch?v=oUiJ9oPgZMA) — a product by [**Looloo Health**](https://looloohealth.com/en/) under [**Mahamor**](https://looloohealth.com/en/) — where it helps ensure patient privacy through automated de-identification.
 
 Beyond clinical documentation, the model can be applied to:
 
